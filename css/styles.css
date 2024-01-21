@@ -727,8 +727,6 @@ img { display: block;}
 }
 
 .chech-text {
-    display: flex;
-    align-items: center;
     width: 338px;
     color: #8E8F99;
     font-size: 12px;
